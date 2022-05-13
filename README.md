@@ -4,5 +4,5 @@
 ### JVM
 <a href="https://github.com/lyq007/JavaCode/blob/main/jvm/JVM%E5%9F%BA%E7%A1%80%E7%AF%87.md">JVM基础专题</a>
 
-# MySql
-### 基础篇
+### mysql
+<a href="https://github.com/lyq007/JavaCode/blob/main/mysql/mysql%E5%9F%BA%E7%A1%80%E7%AF%87.md">mysql基础专题</a>
