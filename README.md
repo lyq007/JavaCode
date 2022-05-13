@@ -1,6 +1,7 @@
 # JavaCode
 记录一个菜鸡程序员的技术积累，希望我们面对寒冬，都可以面无惧色。
-# JVM基础篇
+# JVM
+## 基础篇
 <a href="https://note.youdao.com/s/PlEfbMMI">JVM内存模型</a>
 
 <a href="https://note.youdao.com/s/Y2eMrFwO">类加载机制</a>
