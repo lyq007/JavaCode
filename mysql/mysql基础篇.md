@@ -1,1 +1,2 @@
 # mysql基础篇
+<a href="https://mp.weixin.qq.com/s?__biz=Mzg3MDI0MDAxMg==&tempkey=MTE2NV9ubS9rTERRTTdTc1laN292Y19fUGxKSUROQUR1cFNYVHJmYnpaaXliT3ZJdmN0MnEyNGtxems2YmsyQlEwNHJ0cG5JOFJCcXFtU2diS0RIWXZLRm02N1R0MmNyWThWbmlMbExaTGR5andZODBrUmFZOVlwdUVkYzM3NDZCSEstNEZLWEJXcXItZElTZ2E5N1BYLWdobmlFRmpjV3NOcDNfeFFfX2JBfn4%3D&chksm=ce919b0df9e6121bf5428beaf09d500910d037ccf70f393c9002f47bed6d80e3671e8c8da77e&token=1555202573&lang=zh_CN#rd">mysql-索引详解</a>
