@@ -17,4 +17,48 @@
 <a href="https://mp.weixin.qq.com/s?__biz=Mzg3MDI0MDAxMg==&mid=2247483748&idx=1&sn=86ae80c0a280b5094505468c42da0074&chksm=ce919b07f9e612119633af20cb7c7cf761eaf1b90ebee94e3bc080ce83f13f906a90650f7ac3#rd">常量池</a>
 
 ### mysql
-<a href="https://github.com/lyq007/JavaCode/blob/main/mysql/mysql%E5%9F%BA%E7%A1%80%E7%AF%87.md">mysql基础专题</a>
+<a href="https://note.youdao.com/s/QrsvurBS">mysql-索引详解</a>
+
+<a href="https://note.youdao.com/s/HiG3I0XD">mysql-索引优化</a>
+
+<a href="https://note.youdao.com/s/X028o4Y7">mysql-事务简介</a>
+
+<a href="https://note.youdao.com/s/NB0bPDvK">mysql-主从篇</a>
+
+<a href="https://note.youdao.com/s/PAFc1Mam">mysql-锁</a>
+
+<a href="https://note.youdao.com/s/X028o4Y7">mysql-事物</a>
+
+<a href="https://note.youdao.com/s/NZRKXFHc">mysql-一文读懂各种log</a>
+
+<a href="https://note.youdao.com/s/GRPayeC1">mysql-分库分表</a>
+
+<a href="https://note.youdao.com/s/WLjsF5bu">mysql-innorDB工作流程</a>
+
+<a href="https://note.youdao.com/s/Gi8zAQdk">mysql-RC、RR技术选型</a>
+
+### kafka
+<a href="https://note.youdao.com/s/cFr5XR6f">什么是kafka</a>
+
+<a href="https://note.youdao.com/s/2knHuLwT">kafka如何保证高性能</a>
+
+<a href="https://note.youdao.com/s/FlG6hOO2">kafka如何保证高可用&数据一致性</a>
+
+<a href="https://note.youdao.com/s/YHVEQKAZ">kafka会丢失消息吗</a>
+
+<a href="https://note.youdao.com/s/NilJM1wE">kafka的内部管理和故障恢复</a>
+
+<a href="https://note.youdao.com/s/C6TShqxw">kafka的幂等性和事务性</a>
+
+<a href="https://note.youdao.com/s/Q46UqZ08">kafka实现延时队列</a>
+
+<a href="https://note.youdao.com/s/3RN3tzKP">kafka抛弃zk</a>
+
+### 并发编程
+<a href="https://note.youdao.com/s/ZfzhXYIT">java内存模型</a>
+
+<a href="https://note.youdao.com/s/YUA5RsSH">volatile详解</a>
+
+<a href="https://note.youdao.com/s/JdfKUtrL">synchronized详解</a>
+
+<a href="https://note.youdao.com/s/N4MfYq9r">AQS详解</a>
